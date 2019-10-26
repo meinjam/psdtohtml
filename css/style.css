@@ -3,7 +3,8 @@
     overflow-x: hidden !important; } }
 body {
   font-family: 'Source Sans Pro', sans-serif !important;
-  overflow-x: hidden !important; }
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;}
 
 /*navbar*/
 .nav-item {
