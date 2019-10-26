@@ -1,6 +1,7 @@
 @media (max-width: 767px) {
   .navbar, #showcase, #services, #third, #four, #five, #six, #team, #quote, #subscribe, #about, #contact, #footer, #injam {
-    overflow-x: hidden !important; } }
+    overflow-x: hidden !important;
+    overflow-y: hidden !important; } }
 body {
   font-family: 'Source Sans Pro', sans-serif !important;
   overflow-x: hidden !important;
